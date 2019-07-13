@@ -1,0 +1,9 @@
+name: worldize.cr
+version: 0.1.0
+
+authors:
+  - Halis Duraki <duraki@linuxmail.org>
+
+crystal: 0.29.0
+
+license: MIT
